@@ -56286,7 +56286,7 @@ else return M.fN(C.H,!0,Z.Cu(s,0.5,s),C.m,s,0,s,s,s,s,C.aB)},
 $S:70}
 T.a6h.prototype={
 $2:function(a,b){var s="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png"
-if(b===0)return M.aeT(s,new T.a6f(),"A timer and metronome to use at the gym. WIP, and built for small screen sizes oriented in portrait mode.","Rhythym App")
+if(b===0)return M.aeT(s,new T.a6f(),"A timer and metronome to use at the gym. WIP, and built for small screen sizes oriented in portrait mode.","Rhythm App")
 if(b===1)return M.aeT(s,new T.a6g(),"A responsive web app to rank songs in an album. Built for both web and mobile, adjusting comfortably to any screen size.","Song ranker")},
 $S:445}
 T.a6f.prototype={
