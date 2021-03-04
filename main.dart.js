@@ -11441,7 +11441,7 @@ for(r=j.length,i=0;i<r;++i)j[i].c=C.fM
 C.b.P(a2,j)}}C.b.P(a2,V.afg(a4).Ik())
 if(l)for(r=a2.length,i=0;i<r;++i)a2[i].c=C.fN
 for(h=0;h<a2.length;){g=a2[h]
-f=P.cf("\\[(.+?)\\]\\((.+?)\\)",!0)
+f=P.cf("\\[([^\\[\\]\\n\\(\\)]+?)\\]\\(([^\\(\\)\\[\\]\\n]+?)\\)",!0)
 e=g.a
 d=f.qG(e)
 if(d!=null){r=d.b
