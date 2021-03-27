@@ -55285,7 +55285,7 @@ while(true)switch(s){case 0:k=J
 j=U.ajf()
 i=T.avm()
 s=4
-return P.a7(G.adq(P.h1("https://api.github.com/repos/guilhermepata/blog/contents/assets/posts",0,null)),$async$lr)
+return P.a7(G.adq(P.h1("https://api.github.com/repos/guilhermepata/blog/contents/essays",0,null)),$async$lr)
 case 4:s=3
 return P.a7(j.$2$2(i,b,t.N,t.j),$async$lr)
 case 3:o=k.ax(b),n=p.a
